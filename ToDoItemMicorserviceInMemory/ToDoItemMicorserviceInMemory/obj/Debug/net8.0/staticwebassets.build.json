@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sH54wFTfmok3vmhC5lkFGi/b6rFfP4jKstnOWQlDM3o=",
+  "Source": "ToDoItemMicorserviceInMemory",
+  "BasePath": "_content/ToDoItemMicorserviceInMemory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

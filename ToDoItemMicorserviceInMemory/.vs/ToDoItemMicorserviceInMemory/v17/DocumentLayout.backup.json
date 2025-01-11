@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\todoitemmicorserviceinmemory\\todoitemmicorserviceinmemory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|solutionrelative:todoitemmicorserviceinmemory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\todoitemmicorserviceinmemory\\todoitemmicorserviceinmemory\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|solutionrelative:todoitemmicorserviceinmemory\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\todoitemmicorserviceinmemory\\todoitemmicorserviceinmemory\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|solutionrelative:todoitemmicorserviceinmemory\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\todoitemmicorserviceinmemory\\todoitemmicorserviceinmemory\\todoitemmicorserviceinmemory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26693229-D6BC-4CD8-AEF0-B46D1E47E6F5}|ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj|solutionrelative:todoitemmicorserviceinmemory\\todoitemmicorserviceinmemory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoDb.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\ToDoDb.cs",
+              "RelativeDocumentMoniker": "ToDoItemMicorserviceInMemory\\ToDoDb.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\ToDoDb.cs",
+              "RelativeToolTip": "ToDoItemMicorserviceInMemory\\ToDoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:26:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItemMicorserviceInMemory",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj",
+              "RelativeDocumentMoniker": "ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj",
+              "RelativeToolTip": "ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T18:23:11.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDoItemMicorserviceInMemory\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\ToDoItem.cs",
+              "RelativeToolTip": "ToDoItemMicorserviceInMemory\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:23:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoItemMicorserviceInMemory\\Program.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\ToDoItemMicorserviceInMemory\\ToDoItemMicorserviceInMemory\\Program.cs",
+              "RelativeToolTip": "ToDoItemMicorserviceInMemory\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:20:58.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
