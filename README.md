@@ -1,8 +1,8 @@
- 1 -  Create Simple Api User using EntityFramework 4
+ 1 -  Create Simple Api TodoItem using Asp Net Core API
 		
-		* Create Model 
-		* Create DataBaseContext and add packages EntityFramework
-		* Add Configuration Database  + migration
-		* Create UserController
-		* Test Using Postman
-		<hr / >
+		* Create Model todoItem
+		* Create DataBaseContext and add packages EntityFramework InMemory
+		* Add service 
+		* Add piplines Methods GetMap GetPost 
+		
+		<hr />
