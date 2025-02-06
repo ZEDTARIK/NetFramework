@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A232BB-78E8-4DCC-A74C-82A49D6072EA}|ApiTodo\\ApiTodo.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\netframework\\apitodoinmemomry\\apitodo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A232BB-78E8-4DCC-A74C-82A49D6072EA}|ApiTodo\\ApiTodo.csproj|solutionrelative:apitodo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A232BB-78E8-4DCC-A74C-82A49D6072EA}|ApiTodo\\ApiTodo.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\netframework\\apitodoinmemomry\\apitodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A232BB-78E8-4DCC-A74C-82A49D6072EA}|ApiTodo\\ApiTodo.csproj|solutionrelative:apitodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A232BB-78E8-4DCC-A74C-82A49D6072EA}|ApiTodo\\ApiTodo.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\netframework\\apitodoinmemomry\\apitodo\\datacontext\\dbcontexttodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A232BB-78E8-4DCC-A74C-82A49D6072EA}|ApiTodo\\ApiTodo.csproj|solutionrelative:apitodo\\datacontext\\dbcontexttodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\ApiTodo\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTodo\\Program.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\ApiTodo\\Program.cs",
+              "RelativeToolTip": "ApiTodo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:50:42.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContextTodo.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\ApiTodo\\DataContext\\DbContextTodo.cs",
+              "RelativeDocumentMoniker": "ApiTodo\\DataContext\\DbContextTodo.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\ApiTodo\\DataContext\\DbContextTodo.cs",
+              "RelativeToolTip": "ApiTodo\\DataContext\\DbContextTodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:50:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\ApiTodo\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "ApiTodo\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\NetFramework\\ApiTodoInMemomry\\ApiTodo\\Models\\Todo.cs",
+              "RelativeToolTip": "ApiTodo\\Models\\Todo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:49:50.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
