@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\validations\\creategenredtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\validations\\creategenredtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\genresendpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\genresendpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\apiminimalentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\apiminimalentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\repositories\\irepositorygenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\repositories\\irepositorygenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\repositories\\imp\\repositorygenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\repositories\\imp\\repositorygenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\migrations\\20250313115419_create entity genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\migrations\\20250313115419_create entity genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\dtos\\creategenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\dtos\\creategenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|c:\\users\\zouhairet-tarak\\desktop\\projects_net\\net\\challengers\\apiminimal\\apiminimalentityframework\\utilities\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB048550-420D-49E0-96CA-2348F528C5D6}|ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj|solutionrelative:apiminimalentityframework\\utilities\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateGenreDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Validations\\CreateGenreDTOValidator.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Validations\\CreateGenreDTOValidator.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Validations\\CreateGenreDTOValidator.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Validations\\CreateGenreDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:39:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiMinimalEntityFramework",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\ApiMinimalEntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T14:38:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Program.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:45.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryGenre.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Repositories\\IRepositoryGenre.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Repositories\\IRepositoryGenre.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Repositories\\IRepositoryGenre.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Repositories\\IRepositoryGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryGenre.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Repositories\\Imp\\RepositoryGenre.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Repositories\\Imp\\RepositoryGenre.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Repositories\\Imp\\RepositoryGenre.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Repositories\\Imp\\RepositoryGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250313115419_Create Entity Genre.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Migrations\\20250313115419_Create Entity Genre.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Migrations\\20250313115419_Create Entity Genre.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Migrations\\20250313115419_Create Entity Genre.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Migrations\\20250313115419_Create Entity Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Entities\\Genre.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateGenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\DTOs\\CreateGenreDTO.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\DTOs\\CreateGenreDTO.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\DTOs\\CreateGenreDTO.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\DTOs\\CreateGenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:22:12.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\DTOs\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\DTOs\\GenreDTO.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\DTOs\\GenreDTO.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\DTOs\\GenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:22:10.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Utilities\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\Utilities\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\Utilities\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\Utilities\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:14:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenresEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\GenresEndpoints\\GenresEndpoints.cs",
+              "RelativeDocumentMoniker": "ApiMinimalEntityFramework\\GenresEndpoints\\GenresEndpoints.cs",
+              "ToolTip": "C:\\Users\\ZouhairET-TARAK\\Desktop\\Projects_Net\\NET\\Challengers\\ApiMinimal\\ApiMinimalEntityFramework\\GenresEndpoints\\GenresEndpoints.cs",
+              "RelativeToolTip": "ApiMinimalEntityFramework\\GenresEndpoints\\GenresEndpoints.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:14:25.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
